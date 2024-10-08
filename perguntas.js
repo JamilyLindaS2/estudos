@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'educação fisica',
-    '',
-    ''
+    'Quanto vale o wo?',
+    'imposição da perda da partida pelo placar de 3 x 0 (três a zero) ao Clube que der causa à sua não realização ou continuidade.'
 )
