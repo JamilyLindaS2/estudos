@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'quantos jogadores participam em uma prtida de futsal?)'
+    'quantos jogadores participam em uma partida de futsal?',
+    'duas equipes com 5 atletas'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'quanto tempo dura uma partida de futsal?'
+    'quanto tempo dura uma partida de futsal?',
+    '40 minutos'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Quantos jogadores tem em cada equipe e futsal?'
+    'quais são os cartões usados no futsal?',
+    'cartões amarelos ou vermelhos'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'quais são os cartões usados no futsal'
+    '',
+    ''
 )
