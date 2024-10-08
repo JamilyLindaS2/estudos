@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
+    'educação fisica',
     'quantos jogadores participam em uma partida de futsal?',
     'duas equipes com 5 atletas'
 )
 
 criaCartao(
-    'Geografia',
+    'educação fisica',
     'quanto tempo dura uma partida de futsal?',
     '40 minutos'
 )
 
 criaCartao(
-    'Programação',
+    'educação fisica',
     'quais são os cartões usados no futsal?',
     'cartões amarelos ou vermelhos'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'educação fisica',
     '',
     ''
 )
